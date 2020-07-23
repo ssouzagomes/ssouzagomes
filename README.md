@@ -9,4 +9,4 @@
 - I’m looking to collaborate on projects at Visão 
 
 
-![Dev](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.mp4)
+![Dev](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
