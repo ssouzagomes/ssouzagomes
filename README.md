@@ -1,4 +1,4 @@
-### Hi there, my name is Samuel 👋
+### Hi there, my name is Samuel :v:
 
 - I’m currently working on Visão Tecnologia e Sistemas Jr
 
