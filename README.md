@@ -1,4 +1,4 @@
-### Hi there, my name is Samuel :v:
+### Hi there, my name is Samuel :wave:
 
 - I’m currently working on Visão Tecnologia e Sistemas Jr
 
