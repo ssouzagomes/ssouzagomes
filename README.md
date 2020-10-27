@@ -1,6 +1,6 @@
 ### Hi there, my name is Samuel :wave:
 
-- I’m currently working on Visão Tecnologia e Sistemas Jr.
+- I’m currently working at Visão Tecnologia e Sistemas Jr.
 
 - I'm Student of Information Systems at UFOP-JM.
 
