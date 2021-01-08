@@ -34,14 +34,3 @@
 [linkedin]: https://linkedin.com/in/samuell-souza
 [twitter]: https://twitter.com/samuell_soouza
 [instagram]: https://instagram.com/suri.souza
-<!---
-<!--### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-<!-- BLOG-POST-LIST:END -->
-<!--➡️ [more blog posts...](https://codestackr.com)
-<!---
-<!--<details>
-  <summary>:zap: GitHub Stats</summary>
-<!--  <img align="left" alt="Samuel's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-<!--</details>
