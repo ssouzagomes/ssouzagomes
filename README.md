@@ -4,7 +4,7 @@
 
 - 🔭 I'm focused in better my skills.
 - 🌱 I’m currently learning about the Omnistack NodeJS, ReactJS and React Native.
-- :computer: I’m currently working at Visão Tecnologia e Sistemas Jr.
+- :computer: I’m currently working at Visão Tecnologia e Sistemas Jr e Precato.
 - :school: I'm student at UFOP-JM in course Information Systems.
 - 🥅 2021 Goals: Contributing more with the community JS and to keep learning.
 - ⚡ Fun fact: I love to play soccer and play guitar.
