@@ -1,7 +1,8 @@
 # Hi there, I'm Samuel :wave:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osuricato&theme=tokyonight)](https://github.com/osuricato)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osuricato&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osuricato&theme=tokyonight)](https://github.com/osuricato)
 
 ## I'm a Student and Developer!
 
