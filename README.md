@@ -1,8 +1,20 @@
 # Hi there, I'm Samuel :wave:
 
+## I'm a Student and Developer!
+
+- 🔭 I'm focused in better my skills.
+- 🌱 I’m currently learning about the Omnistack NodeJS, ReactJS and React Native.
+- :computer: I’m currently working at Visão Tecnologia and Sistemas Jr and Precato like backend developer.
+- :school: I'm student at UFOP-JM in course Information Systems.
+- 🥅 2021 Goals: Contributing more with the community JS and to keep learning.
+- ⚡ Fun fact: I love to play soccer and play guitar.
+
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osuricato&theme=tokyonight)](https://github.com/osuricato)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osuricato&show_icons=true&theme=tokyonight)
 
-### Tools:
+## Tools:
 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -12,16 +24,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osuricato&theme=tokyonight)](https://github.com/osuricato)
-
-## I'm a Student and Developer!
-
-- 🔭 I'm focused in better my skills.
-- 🌱 I’m currently learning about the Omnistack NodeJS, ReactJS and React Native.
-- :computer: I’m currently working at Visão Tecnologia and Sistemas Jr and Precato like backend developer.
-- :school: I'm student at UFOP-JM in course Information Systems.
-- 🥅 2021 Goals: Contributing more with the community JS and to keep learning.
-- ⚡ Fun fact: I love to play soccer and play guitar.
+</br>
 
 ## Connect with me: :iphone:
 
