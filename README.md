@@ -3,8 +3,8 @@
 ## I'm a Student and Developer!
 
 - 🔭 I'm focused in better my skills.
-- 🌱 I’m currently learning about the Omnistack NodeJS, ReactJS and React Native.
-- :computer: I’m currently working at Visão Tecnologia and Sistemas Jr and Precato like backend developer.
+- 🌱 I’m currently learning about the Omnistack NodeJS and ReactJS.
+- :computer: I’m currently working at Precato like fullstack developer.
 - :school: I'm student at UFOP-JM in course Information Systems.
 - 🥅 2021 Goals: Contributing more with the community JS and to keep learning.
 - ⚡ Fun fact: I love to play soccer and play guitar.
