@@ -1,11 +1,11 @@
 # Hi there, I'm Samuel :wave:
 
-## I'm a Student and Developer!
+## I'm a Fullstack Developer!
 
 - 🔭 I'm focused in better my skills.
 - 🌱 I’m currently learning about the Omnistack NodeJS and ReactJS.
 - :computer: I’m currently working at Precato like fullstack developer.
-- :school: I'm student at UFOP-JM in course Information Systems.
+- :school: I'm graduated at UFOP-JM in course Information Systems.
 - ⚡ Fun fact: I love to play soccer and play guitar.
 
 </br>
