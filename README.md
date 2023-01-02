@@ -1,10 +1,10 @@
 # Hi there, I'm Samuel :wave:
 
-## I'm a Fullstack Developer!
+## I'm a Frontend Developer!
 
 - 🔭 I'm focused in better my skills.
 - 🌱 I’m currently learning about the Omnistack NodeJS and ReactJS.
-- :computer: I’m currently working at Precato like fullstack developer.
+- :computer: I’m currently working at Capitual like frontend developer.
 - :school: I'm graduated at UFOP-JM in course Information Systems.
 - ⚡ Fun fact: I love to play soccer and play guitar.
 
