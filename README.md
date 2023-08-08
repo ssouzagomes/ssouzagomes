@@ -1,6 +1,6 @@
 # Hi there, I'm Samuel :wave:
 
-## I'm a Frontend Developer!
+## I'm a Fullstack Developer!
 
 - 🔭 I'm focused in better my skills.
 - 🌱 I’m currently learning about the Omnistack NodeJS and ReactJS.
