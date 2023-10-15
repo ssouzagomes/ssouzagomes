@@ -1,11 +1,10 @@
-# Hi there, I'm Samuel :wave:
+# Hello, my name is Samuel :wave:
 
-## I'm a Fullstack Developer!
+## I'm a Fullstack Engineer!
 
-- 🔭 I'm focused in better my skills.
-- 🌱 I’m currently learning about the Omnistack NodeJS and ReactJS.
-- :computer: I’m currently working at Capitual like frontend developer.
-- :school: I'm graduated at UFOP-JM in course Information Systems.
+- 🔭 Always learning.
+- :computer: I’m currently working at Capitual like frontend engineer.
+- :school: I'm graduated at UFOP in course Information Systems.
 - ⚡ Fun fact: I love to play soccer and play guitar.
 
 </br>
