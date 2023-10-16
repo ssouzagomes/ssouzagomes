@@ -1,31 +1,24 @@
-# Hello, my name is Samuel :wave:
+## Hello, my name is Samuel :wave:
 
-## I'm a Fullstack Engineer!
+![](https://komarev.com/ghpvc/?username=ssouzagomes&color=006bed)
 
 - 🔭 Always learning.
-- :computer: I’m currently working at Capitual like frontend engineer.
+- :computer: I’m currently working at Capitual like Frontend Engineer.
 - :school: I'm graduated at UFOP in course Information Systems.
 - ⚡ Fun fact: I love to play soccer and play guitar.
 
 </br>
 
-<div align="center">
-  <p align="center"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/ssouzagomes/count.svg"/><p> 
-</div>
-
-</br>
-
 <div>
-   <a href="https://github.com/ssouzagomes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ssouzagomes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
   <a href="https://github.com/ssouzagomes">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssouzagomes&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
+  <a href="https://github.com/ssouzagomes">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ssouzagomes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
 </div>
 
-## 🛠 My stacks:
+### :rocket: My stacks:
 
 <div style="display: inline_block"><br>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
@@ -43,7 +36,7 @@
 
 </br>
 
-## Connect with me: :iphone:
+### :iphone: Connect with me:
 
 <a href="https://www.linkedin.com/in/samuell-souza" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
