@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=ssouzagomes&color=006bed)
 
 - 🔭 Always learning.
-- :computer: I’m currently working at Capitual like Frontend Engineer.
+- :computer: I’m currently working at Seidor as Backend Engineer.
 - :school: I'm graduated at UFOP in course Information Systems.
 - ⚡ Fun fact: I love to play soccer and play guitar.
 
