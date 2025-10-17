@@ -5,7 +5,7 @@
 - 🔭 Always learning.
 - :computer: I’m currently working at Seidor as Backend Engineer.
 - :school: I'm graduated at UFOP in course Information Systems.
-- ⚡ Fun fact: I love to play soccer and play guitar.
+- ⚡ Fun fact: I love playing soccer and playing guitar.
 
 </br>
 
